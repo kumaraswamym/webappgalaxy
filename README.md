@@ -1,1 +1,1 @@
-# webappgalaxy
+# this is a web application
