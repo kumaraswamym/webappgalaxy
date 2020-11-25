@@ -33,7 +33,7 @@ public final class Service extends HttpServlet {
         PrintWriter writer = response.getWriter();        
         writer.println("<html>");
         writer.println("<head>");
-        writer.println("<title>Sample Web Application Servlet Page</title>");
+        writer.println("<title>Sample WebApplication Servlet Page</title>");
         writer.println("</head>");
         writer.println("<body bgcolor=white>");
 
@@ -43,13 +43,13 @@ public final class Service extends HttpServlet {
         writer.println("<img src=\"images/springsource.png\">");
         writer.println("</td>");
         writer.println("<td>");
-        writer.println("<h1>Sample Web Application Servlet</h1>");
+        writer.println("<h1>Sample WebApplication Servlet</h1>");
         writer.println("</td>");
         writer.println("</tr>");
         writer.println("</table>");
 
         writer.println("This is the output of a servlet that is part of");
-        writer.println("the Hello, Web application.");
+        writer.println("the Hello, WebApplication.");
 
         writer.println("</body>");
         writer.println("</html>");
