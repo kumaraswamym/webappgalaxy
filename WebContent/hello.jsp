@@ -11,13 +11,13 @@
         <img src="images/springsource.png">
       </td>
       <td>
-         <h1>WebApp JSP Page</h1>
+         <h1>WebApplication JSP Page</h1>
       </td>
     </tr>
   </table>
 
   <br />
-  <p>This is the output of a JSP page that is part of the WebApp.</p>
+  <p>This is the output of a JSP page that is part of the WebApplication.</p>
 
   <%= new String("Hello WebApplication!") %>
 
